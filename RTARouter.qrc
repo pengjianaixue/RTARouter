@@ -1,3 +1,17 @@
 <RCC>
     <qresource prefix="/RTARouter"/>
+    <qresource prefix="/icon">
+        <file>imageresource/Account.png</file>
+        <file>imageresource/authorization.png</file>
+        <file>imageresource/cancel.png</file>
+        <file>imageresource/DepartMent.png</file>
+        <file>imageresource/link.png</file>
+        <file>imageresource/Login.jpg</file>
+        <file>imageresource/login.png</file>
+        <file>imageresource/Password.png</file>
+        <file>imageresource/passwordconfirmation.png</file>
+        <file>imageresource/register.png</file>
+        <file>imageresource/save.png</file>
+        <file>imageresource/unlink.png</file>
+    </qresource>
 </RCC>
